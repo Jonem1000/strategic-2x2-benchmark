@@ -1,0 +1,31 @@
+{
+  "benchmark_version": "2.0.0",
+  "administration_version": "1.0.0",
+  "data_manifest": "data/manifest.json",
+  "requests": "data/questions/requests.jsonl",
+  "pilot": "data/questions/pilot.json",
+  "answers": "data/answers/answers.jsonl",
+  "schemas": {
+    "request": "schemas/request.schema.json",
+    "answers": "schemas/answers.schema.json",
+    "prediction": "schemas/prediction.schema.json",
+    "native-response": "schemas/native-response.schema.json",
+    "execution": "schemas/execution.schema.json",
+    "run-manifest": "schemas/run-manifest.schema.json"
+  },
+  "commands": {
+    "verify": "python3 administer.py verify",
+    "export": "python3 administer.py export --out questions-only",
+    "preview": "python3 administer.py run --mode native --model MODEL",
+    "run_and_score": "python3 administer.py run --mode native --model MODEL --execute --out runs/pilot"
+  },
+  "requirements": {
+    "python": ">=3.10",
+    "os": [
+      "macOS",
+      "Linux"
+    ],
+    "dependencies": "standard library"
+  },
+  "scope": "Mathematical calculations, not real-world decision quality."
+}

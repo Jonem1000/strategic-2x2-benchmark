@@ -50,24 +50,7 @@ def payload(case):
     if case['section']=='level_k':return case['frozen_payload']
     return ordinal.request(case['payoffs'],case['section'])
 
-def parse(response,body):
-    a=response['answers'];q=body['questions']
-    if set(a)!=set(q):raise ValueError('Missing or extra answer IDs')
-    labels={};probabilities={}
-    for key,question in q.items():
-        answer=a[key]
-        if answer.get('type')!=question['type']:raise ValueError('Wrong answer type')
-        if question['type']=='noul':
-            v=answer['noul']
-            if type(v) not in (float,int) or not math.isfinite(v) or not 0<=v<=1:raise ValueError('Invalid Noul')
-            labels[key]=v>0.5;probabilities[key]={'true':v,'false':1-v}
-        else:
-            d=answer['probabilities'];chosen=answer['choice']
-            if set(d)!=set(LABELS) or chosen not in d:raise ValueError('Invalid choice keys')
-            if any(type(v) not in (int,float) or not math.isfinite(v) or not 0<=v<=1 for v in d.values()) or abs(sum(d.values())-1)>.0150001:raise ValueError('Invalid choice distribution')
-            if d[chosen]<max(d.values())-1e-8:raise ValueError('Choice does not maximize probability')
-            labels[key]=chosen;probabilities[key]={k:v/sum(d.values()) for k,v in d.items()}
-    return labels,probabilities
+from contracts import parse
 
 def rows(path):return [json.loads(s) for s in path.read_text().splitlines()]
 def jsonl(path,data):path.parent.mkdir(parents=True,exist_ok=True);path.write_text(''.join(json.dumps(x,sort_keys=True,allow_nan=False)+'\n' for x in data))

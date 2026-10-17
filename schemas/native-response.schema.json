@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "native-response.schema.json",
+  "type": "object",
+  "properties": {
+    "model": {
+      "type": "string"
+    },
+    "answers": {
+      "type": "object",
+      "additionalProperties": {
+        "oneOf": [
+          {
+            "type": "object",
+            "properties": {
+              "type": {
+                "const": "noul"
+              },
+              "noul": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              }
+            },
+            "required": [
+              "type",
+              "noul"
+            ],
+            "additionalProperties": true
+          },
+          {
+            "type": "object",
+            "properties": {
+              "type": {
+                "const": "choice"
+              },
+              "choice": {
+                "enum": [
+                  "first",
+                  "second",
+                  "equal"
+                ]
+              },
+              "probabilities": {
+                "type": "object",
+                "properties": {
+                  "first": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "second": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "equal": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  }
+                },
+                "required": [
+                  "first",
+                  "second",
+                  "equal"
+                ],
+                "additionalProperties": false
+              }
+            },
+            "required": [
+              "type",
+              "choice",
+              "probabilities"
+            ],
+            "additionalProperties": true
+          }
+        ]
+      }
+    }
+  },
+  "required": [
+    "model",
+    "answers"
+  ],
+  "additionalProperties": true
+}

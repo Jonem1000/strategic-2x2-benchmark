@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "execution.schema.json",
+  "type": "object",
+  "properties": {
+    "expected": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "attempted": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "valid": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "failed": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "remaining": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "status": {
+      "enum": [
+        "partial",
+        "complete",
+        "complete_with_errors"
+      ]
+    },
+    "retry_policy": {
+      "type": "string"
+    },
+    "sha256_predictions": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    }
+  },
+  "required": [
+    "expected",
+    "attempted",
+    "valid",
+    "failed",
+    "remaining",
+    "status",
+    "retry_policy",
+    "sha256_predictions"
+  ],
+  "additionalProperties": false
+}

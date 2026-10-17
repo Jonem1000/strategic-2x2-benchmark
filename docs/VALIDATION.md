@@ -4,12 +4,12 @@
 
 - All frozen data files match their recorded SHA-256 hashes.
 - All 29,952 reference answers agree with both oracle implementations.
-- All seven oracle, parser and scoring tests pass.
+- Oracle, parser, scoring and administration tests pass.
 - Normalized predictions reproduce all seven saved score files exactly.
 
 ## Adapter checks
 
-Both inference modes pass offline dry-run checks with the 108-case pilot. The generated-label parser rejects malformed answers. The portable adapter has not been live-tested; archived inference used model-specific runners.
+Both inference modes pass dry-run and local simulated-HTTP checks. Tests cover failures, durable resume, interrupted dispatch, configuration changes, input tampering, exclusive locking, raw-response reparsing, isolated questions-only exports, and a complete 108-case simulated pilot through the run-and-score command. The generated-label parser rejects duplicate JSON keys and nonfinite values. The portable adapter has not been live-tested; archived inference used model-specific runners.
 
 ## Package contents
 
@@ -22,4 +22,4 @@ python3 reproduce.py
 python3 -m unittest -v
 ```
 
-These checks require Python 3.10+ and no network access.
+These checks require Python 3.10+ and no external network access. Administration tests bind a loopback HTTP server.

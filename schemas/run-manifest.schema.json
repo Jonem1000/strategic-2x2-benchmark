@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "configuration": {
+      "type": "object",
+      "required": [
+        "model"
+      ]
+    },
+    "mode": {
+      "enum": [
+        "native",
+        "groq"
+      ]
+    },
+    "endpoint": {
+      "type": "string"
+    },
+    "case_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "data_hashes": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^[0-9a-f]{64}$"
+      }
+    },
+    "runner_sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "contracts_sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    }
+  },
+  "required": [
+    "configuration",
+    "mode",
+    "endpoint",
+    "case_ids",
+    "data_hashes",
+    "runner_sha256",
+    "contracts_sha256"
+  ],
+  "additionalProperties": false
+}

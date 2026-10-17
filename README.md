@@ -45,6 +45,17 @@ Marres denotes a calculation kernel plus an exam adapter, not the full applicati
 
 Normalized predictions retain answers, available probabilities and latency. Raw provider transcripts, reasoning traces, provider request IDs and infrastructure details are excluded. Source prediction-file hashes preserve a link to the original experiment records; public files alone cannot audit original server responses or prove execution. See [protocol](docs/PROTOCOL.md).
 
+## Machine administration
+
+Start with [benchmark.json](benchmark.json) for paths, versions, schemas and commands. The [administration contract](adapters/README.md#machine-administration-contract) documents exit codes, durable resumption and answer isolation.
+
+```sh
+python3 administer.py verify
+python3 administer.py export --out /tmp/questions-only
+```
+
+The exported package is runnable without the answer key or oracle. On the administrator machine, `administer.py run` validates inputs, runs the adapter and scores available results in one command. Tests cover local HTTP responses, failure handling and resume without duplicate dispatch; they make no paid requests.
+
 ## New inference
 
 The [adapter](adapters/run.py) provides explicit native-System-One and Groq-generative modes. Preview the 108-case pilot with no network access:

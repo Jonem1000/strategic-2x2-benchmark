@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "request.schema.json",
+  "type": "object",
+  "properties": {
+    "case_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "payload": {
+      "type": "object",
+      "properties": {
+        "state": {
+          "type": "object"
+        },
+        "questions": {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": {
+            "oneOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "type": {
+                    "const": "noul"
+                  },
+                  "instructions": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "type",
+                  "instructions"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "type": {
+                    "const": "choice"
+                  },
+                  "instructions": {
+                    "type": "string"
+                  },
+                  "criteria": {
+                    "type": "object",
+                    "properties": {
+                      "first": {
+                        "type": "string"
+                      },
+                      "second": {
+                        "type": "string"
+                      },
+                      "equal": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "first",
+                      "second",
+                      "equal"
+                    ],
+                    "additionalProperties": false
+                  }
+                },
+                "required": [
+                  "type",
+                  "instructions",
+                  "criteria"
+                ],
+                "additionalProperties": false
+              }
+            ]
+          }
+        }
+      },
+      "required": [
+        "state",
+        "questions"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "case_id",
+    "payload"
+  ],
+  "additionalProperties": false
+}

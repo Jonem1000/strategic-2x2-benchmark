@@ -9,7 +9,7 @@ def score(cases,key,predictions):
     for r in predictions:
         i=r['case_id']
         if i not in lookup or i in pred:raise ValueError('Unknown or duplicate prediction ID: '+i)
-        pred[i]=r
+        pred[i]=r if r.get('status','ok')=='ok' else {k:v for k,v in r.items() if k not in ('answers','probabilities')}
     report={}
     for track in ['all','exclude_inferred_154']:
         selected=[c for c in cases if track=='all' or not c['inferred_154']];sections={}

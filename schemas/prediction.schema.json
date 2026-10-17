@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "prediction.schema.json",
+  "oneOf": [
+    {
+      "type": "object",
+      "properties": {
+        "case_id": {
+          "type": "string"
+        },
+        "status": {
+          "const": "ok"
+        },
+        "answers": {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": {
+            "oneOf": [
+              {
+                "type": "boolean"
+              },
+              {
+                "enum": [
+                  "first",
+                  "second",
+                  "equal"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "required": [
+        "case_id",
+        "status",
+        "answers"
+      ],
+      "additionalProperties": true
+    },
+    {
+      "type": "object",
+      "properties": {
+        "case_id": {
+          "type": "string"
+        },
+        "status": {
+          "enum": [
+            "error",
+            "dispatching"
+          ]
+        }
+      },
+      "required": [
+        "case_id",
+        "status"
+      ],
+      "additionalProperties": true
+    }
+  ]
+}
