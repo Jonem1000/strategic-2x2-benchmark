@@ -1,0 +1,24 @@
+{
+  "torchcast": {
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "sha": "08645834899cb8e00d370b77a3f4e0baa3241dd1",
+    "repo_id": "torchcast-ai/torchcast-decision-27b"
+  },
+  "wald": {
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "sha": "5fbae66abfca1fe8c60c5a0877d12593e6dd1854",
+    "repo_id": "org2ai/Wald-4B"
+  },
+  "jev-gemma4": {
+    "pipeline_tag": "text-classification",
+    "library_name": "transformers",
+    "sha": "068ec870779c3672ad552128bb0f6f24aed32516",
+    "repo_id": "autotrust/JEV-Gemma4-26B-A4B"
+  },
+  "drex": {
+    "repo_id": "nace-ai/drex-dlm",
+    "sha": "8f6f8244ce0b186b3caa4cdbaae1c9f3986bf63e"
+  }
+}

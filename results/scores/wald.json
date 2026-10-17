@@ -1,0 +1,190 @@
+{
+  "all": {
+    "sections": {
+      "best_response": {
+        "cases": 576,
+        "valid_cases": 576,
+        "missing": 0,
+        "invalid": 0,
+        "perfect_cases": 2,
+        "exact_accuracy_all": 0.003472222222222222,
+        "correct_answers": 2834,
+        "total_answers": 4608,
+        "answer_accuracy_all": 0.6150173611111112,
+        "answer_accuracy_valid": 0.6150173611111112,
+        "brier_valid": 0.23955870529189804,
+        "median_seconds_valid": 0.7332054749131203
+      },
+      "strict_dominance": {
+        "cases": 576,
+        "valid_cases": 576,
+        "missing": 0,
+        "invalid": 0,
+        "perfect_cases": 158,
+        "exact_accuracy_all": 0.2743055555555556,
+        "correct_answers": 1762,
+        "total_answers": 2304,
+        "answer_accuracy_all": 0.7647569444444444,
+        "answer_accuracy_valid": 0.7647569444444444,
+        "brier_valid": 0.20212253879515404,
+        "median_seconds_valid": 0.3677534107118845
+      },
+      "pure_nash": {
+        "cases": 576,
+        "valid_cases": 576,
+        "missing": 0,
+        "invalid": 0,
+        "perfect_cases": 96,
+        "exact_accuracy_all": 0.16666666666666666,
+        "correct_answers": 1620,
+        "total_answers": 2304,
+        "answer_accuracy_all": 0.703125,
+        "answer_accuracy_valid": 0.703125,
+        "brier_valid": 0.23706847013112994,
+        "median_seconds_valid": 0.3665971960872412,
+        "by_equilibrium_count": {
+          "1": {
+            "cases": 432,
+            "exact": 64
+          },
+          "2": {
+            "cases": 72,
+            "exact": 6
+          },
+          "0": {
+            "cases": 72,
+            "exact": 26
+          }
+        }
+      },
+      "level_k": {
+        "cases": 3456,
+        "valid_cases": 3456,
+        "missing": 0,
+        "invalid": 0,
+        "perfect_cases": 293,
+        "exact_accuracy_all": 0.08478009259259259,
+        "correct_answers": 9522,
+        "total_answers": 20736,
+        "answer_accuracy_all": 0.4592013888888889,
+        "answer_accuracy_valid": 0.4592013888888889,
+        "brier_valid": 0.6499418138265496,
+        "median_seconds_valid": 0.5557854045182467,
+        "by_level": {
+          "1": {
+            "correct": 2275,
+            "total": 6912
+          },
+          "2": {
+            "correct": 3463,
+            "total": 6912
+          },
+          "3": {
+            "correct": 3784,
+            "total": 6912
+          }
+        }
+      }
+    },
+    "equal_section_exact_accuracy": 0.13230613425925927,
+    "overall_status": "complete"
+  },
+  "exclude_inferred_154": {
+    "sections": {
+      "best_response": {
+        "cases": 572,
+        "valid_cases": 572,
+        "missing": 0,
+        "invalid": 0,
+        "perfect_cases": 2,
+        "exact_accuracy_all": 0.0034965034965034965,
+        "correct_answers": 2814,
+        "total_answers": 4576,
+        "answer_accuracy_all": 0.6149475524475524,
+        "answer_accuracy_valid": 0.6149475524475524,
+        "brier_valid": 0.23956245635837864,
+        "median_seconds_valid": 0.7332054749131203
+      },
+      "strict_dominance": {
+        "cases": 572,
+        "valid_cases": 572,
+        "missing": 0,
+        "invalid": 0,
+        "perfect_cases": 158,
+        "exact_accuracy_all": 0.2762237762237762,
+        "correct_answers": 1750,
+        "total_answers": 2288,
+        "answer_accuracy_all": 0.7648601398601399,
+        "answer_accuracy_valid": 0.7648601398601399,
+        "brier_valid": 0.20217692692054298,
+        "median_seconds_valid": 0.3677534107118845
+      },
+      "pure_nash": {
+        "cases": 572,
+        "valid_cases": 572,
+        "missing": 0,
+        "invalid": 0,
+        "perfect_cases": 96,
+        "exact_accuracy_all": 0.16783216783216784,
+        "correct_answers": 1610,
+        "total_answers": 2288,
+        "answer_accuracy_all": 0.7036713286713286,
+        "answer_accuracy_valid": 0.7036713286713286,
+        "brier_valid": 0.23708622010781774,
+        "median_seconds_valid": 0.36682005040347576,
+        "by_equilibrium_count": {
+          "1": {
+            "cases": 428,
+            "exact": 64
+          },
+          "2": {
+            "cases": 72,
+            "exact": 6
+          },
+          "0": {
+            "cases": 72,
+            "exact": 26
+          }
+        }
+      },
+      "level_k": {
+        "cases": 3408,
+        "valid_cases": 3408,
+        "missing": 0,
+        "invalid": 0,
+        "perfect_cases": 292,
+        "exact_accuracy_all": 0.08568075117370892,
+        "correct_answers": 9404,
+        "total_answers": 20448,
+        "answer_accuracy_all": 0.4598982785602504,
+        "answer_accuracy_valid": 0.4598982785602504,
+        "brier_valid": 0.6499067826873582,
+        "median_seconds_valid": 0.555908689275384,
+        "by_level": {
+          "1": {
+            "correct": 2258,
+            "total": 6816
+          },
+          "2": {
+            "correct": 3413,
+            "total": 6816
+          },
+          "3": {
+            "correct": 3733,
+            "total": 6816
+          }
+        }
+      }
+    },
+    "equal_section_exact_accuracy": 0.13330829968153912,
+    "overall_status": "complete"
+  },
+  "logical_consistency": {
+    "comparisons": 4608,
+    "violations": 509
+  },
+  "action_relabelling": {
+    "directed_proposition_comparisons": 27648,
+    "violations": 6572
+  }
+}

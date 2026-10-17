@@ -1,0 +1,30 @@
+{
+  "marres": {
+    "original_predictions_sha256": "b75e2f198ff3a2fe1c5a95e02d9e839930f5b69dba1bb7889155132e5c834259",
+    "transformation": "Allowlisted normalized answers/status/probabilities/elapsed_seconds only; no raw transcripts, request IDs or local infrastructure."
+  },
+  "gpt-oss": {
+    "original_predictions_sha256": "7bf0a000749e4581f2daea76eae33f3b0b49966b2d391b6aef61c345ff061829",
+    "transformation": "Allowlisted normalized answers/status/probabilities/elapsed_seconds only; no raw transcripts, request IDs or local infrastructure."
+  },
+  "jev": {
+    "original_predictions_sha256": "20a3c79849aaa4d591c93064b9e5bde0c7b047ee33b1553cce222147ccb24463",
+    "transformation": "Allowlisted normalized answers/status/probabilities/elapsed_seconds only; no raw transcripts, request IDs or local infrastructure."
+  },
+  "torchcast": {
+    "original_predictions_sha256": "2c8967fb5cd7b1110a68a20d1d640b3ee3e1cd2ad6cc898ab795a8c3016496c6",
+    "transformation": "Allowlisted normalized answers/status/probabilities/elapsed_seconds only; no raw transcripts, request IDs or local infrastructure."
+  },
+  "gemma": {
+    "original_predictions_sha256": "5ddd9aba6c3be7ceb0e840942bba1ae9085787e1ad53f0256c8118106369dcf3",
+    "transformation": "Allowlisted normalized answers/status/probabilities/elapsed_seconds only; no raw transcripts, request IDs or local infrastructure."
+  },
+  "wald": {
+    "original_predictions_sha256": "6cb534e61751471c4689d5b90cee086103ae8053a4f9e73edb91d0b4aa0f5820",
+    "transformation": "Allowlisted normalized answers/status/probabilities/elapsed_seconds only; no raw transcripts, request IDs or local infrastructure."
+  },
+  "drex": {
+    "original_predictions_sha256": "d153ef2b99fc3b64612f8a6d98beaacb24e03299652b890ce12111944ed1792b",
+    "transformation": "Allowlisted normalized answers/status/probabilities/elapsed_seconds only; no raw transcripts, request IDs or local infrastructure."
+  }
+}

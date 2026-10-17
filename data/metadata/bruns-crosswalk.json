@@ -1,0 +1,4782 @@
+{
+  "source": "https://arxiv.org/pdf/1010.4727",
+  "sha256": "0d1ea72262aeedb6a45c18cdbbdfebab85048dfb2d2b92d647eba839cd4c880d",
+  "mappings": [
+    {
+      "publishedId": "421",
+      "canonicalId": "canonical-025",
+      "payoffs": [
+        [
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "426",
+      "canonicalId": "canonical-029",
+      "payoffs": [
+        [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "425",
+      "canonicalId": "canonical-065",
+      "payoffs": [
+        [
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "424",
+      "canonicalId": "canonical-101",
+      "payoffs": [
+        [
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "423",
+      "canonicalId": "canonical-097",
+      "payoffs": [
+        [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "422",
+      "canonicalId": "canonical-061",
+      "payoffs": [
+        [
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "121",
+      "canonicalId": "canonical-062",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "126",
+      "canonicalId": "canonical-098",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "125",
+      "canonicalId": "canonical-102",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "124",
+      "canonicalId": "canonical-066",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "123",
+      "canonicalId": "canonical-030",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "122",
+      "canonicalId": "canonical-026",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "431",
+      "canonicalId": "canonical-027",
+      "payoffs": [
+        [
+          [
+            3,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "436",
+      "canonicalId": "canonical-031",
+      "payoffs": [
+        [
+          [
+            3,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "435",
+      "canonicalId": "canonical-067",
+      "payoffs": [
+        [
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "434",
+      "canonicalId": "canonical-103",
+      "payoffs": [
+        [
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "433",
+      "canonicalId": "canonical-099",
+      "payoffs": [
+        [
+          [
+            3,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "432",
+      "canonicalId": "canonical-063",
+      "payoffs": [
+        [
+          [
+            3,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "131",
+      "canonicalId": "canonical-064",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "136",
+      "canonicalId": "canonical-100",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "135",
+      "canonicalId": "canonical-104",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "134",
+      "canonicalId": "canonical-068",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "133",
+      "canonicalId": "canonical-032",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "132",
+      "canonicalId": "canonical-028",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "441",
+      "canonicalId": "canonical-132",
+      "payoffs": [
+        [
+          [
+            3,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "446",
+      "canonicalId": "canonical-128",
+      "payoffs": [
+        [
+          [
+            3,
+            2
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "445",
+      "canonicalId": "canonical-124",
+      "payoffs": [
+        [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "444",
+      "canonicalId": "canonical-123",
+      "payoffs": [
+        [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "443",
+      "canonicalId": "canonical-127",
+      "payoffs": [
+        [
+          [
+            3,
+            2
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "442",
+      "canonicalId": "canonical-131",
+      "payoffs": [
+        [
+          [
+            3,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "141",
+      "canonicalId": "canonical-095",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "146",
+      "canonicalId": "canonical-059",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "145",
+      "canonicalId": "canonical-023",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "144",
+      "canonicalId": "canonical-024",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "143",
+      "canonicalId": "canonical-060",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "142",
+      "canonicalId": "canonical-096",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "451",
+      "canonicalId": "canonical-120",
+      "payoffs": [
+        [
+          [
+            2,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "456",
+      "canonicalId": "canonical-116",
+      "payoffs": [
+        [
+          [
+            2,
+            2
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "455",
+      "canonicalId": "canonical-112",
+      "payoffs": [
+        [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "454",
+      "canonicalId": "canonical-111",
+      "payoffs": [
+        [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "453",
+      "canonicalId": "canonical-115",
+      "payoffs": [
+        [
+          [
+            2,
+            2
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "452",
+      "canonicalId": "canonical-119",
+      "payoffs": [
+        [
+          [
+            2,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "151",
+      "canonicalId": "canonical-083",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "156",
+      "canonicalId": "canonical-047",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "155",
+      "canonicalId": "canonical-011",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "153",
+      "canonicalId": "canonical-048",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "152",
+      "canonicalId": "canonical-084",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "461",
+      "canonicalId": "canonical-081",
+      "payoffs": [
+        [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "466",
+      "canonicalId": "canonical-045",
+      "payoffs": [
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "465",
+      "canonicalId": "canonical-009",
+      "payoffs": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "464",
+      "canonicalId": "canonical-010",
+      "payoffs": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "463",
+      "canonicalId": "canonical-046",
+      "payoffs": [
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "462",
+      "canonicalId": "canonical-082",
+      "payoffs": [
+        [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "161",
+      "canonicalId": "canonical-118",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "166",
+      "canonicalId": "canonical-114",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            2
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "165",
+      "canonicalId": "canonical-110",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "164",
+      "canonicalId": "canonical-109",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "163",
+      "canonicalId": "canonical-113",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            2
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "162",
+      "canonicalId": "canonical-117",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "411",
+      "canonicalId": "canonical-093",
+      "payoffs": [
+        [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "416",
+      "canonicalId": "canonical-057",
+      "payoffs": [
+        [
+          [
+            1,
+            2
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "415",
+      "canonicalId": "canonical-021",
+      "payoffs": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "414",
+      "canonicalId": "canonical-022",
+      "payoffs": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "413",
+      "canonicalId": "canonical-058",
+      "payoffs": [
+        [
+          [
+            1,
+            2
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "412",
+      "canonicalId": "canonical-094",
+      "payoffs": [
+        [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "111",
+      "canonicalId": "canonical-130",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "116",
+      "canonicalId": "canonical-126",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            3,
+            2
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "115",
+      "canonicalId": "canonical-122",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "114",
+      "canonicalId": "canonical-121",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "113",
+      "canonicalId": "canonical-125",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            3,
+            2
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "112",
+      "canonicalId": "canonical-129",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            3,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "321",
+      "canonicalId": "canonical-105",
+      "payoffs": [
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "326",
+      "canonicalId": "canonical-069",
+      "payoffs": [
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "325",
+      "canonicalId": "canonical-033",
+      "payoffs": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "324",
+      "canonicalId": "canonical-034",
+      "payoffs": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "323",
+      "canonicalId": "canonical-070",
+      "payoffs": [
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "322",
+      "canonicalId": "canonical-106",
+      "payoffs": [
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "221",
+      "canonicalId": "canonical-142",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "226",
+      "canonicalId": "canonical-138",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "225",
+      "canonicalId": "canonical-134",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "224",
+      "canonicalId": "canonical-133",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "223",
+      "canonicalId": "canonical-137",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "222",
+      "canonicalId": "canonical-141",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "331",
+      "canonicalId": "canonical-107",
+      "payoffs": [
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "336",
+      "canonicalId": "canonical-071",
+      "payoffs": [
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "335",
+      "canonicalId": "canonical-035",
+      "payoffs": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "334",
+      "canonicalId": "canonical-036",
+      "payoffs": [
+        [
+          [
+            1,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "333",
+      "canonicalId": "canonical-072",
+      "payoffs": [
+        [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "332",
+      "canonicalId": "canonical-108",
+      "payoffs": [
+        [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "231",
+      "canonicalId": "canonical-144",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "236",
+      "canonicalId": "canonical-140",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "235",
+      "canonicalId": "canonical-136",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "234",
+      "canonicalId": "canonical-135",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "233",
+      "canonicalId": "canonical-139",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "232",
+      "canonicalId": "canonical-143",
+      "payoffs": [
+        [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "341",
+      "canonicalId": "canonical-052",
+      "payoffs": [
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "346",
+      "canonicalId": "canonical-088",
+      "payoffs": [
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "345",
+      "canonicalId": "canonical-092",
+      "payoffs": [
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "344",
+      "canonicalId": "canonical-056",
+      "payoffs": [
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "343",
+      "canonicalId": "canonical-020",
+      "payoffs": [
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "342",
+      "canonicalId": "canonical-016",
+      "payoffs": [
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "241",
+      "canonicalId": "canonical-015",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "246",
+      "canonicalId": "canonical-019",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "245",
+      "canonicalId": "canonical-055",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            3,
+            3
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "244",
+      "canonicalId": "canonical-091",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "243",
+      "canonicalId": "canonical-087",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "242",
+      "canonicalId": "canonical-051",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "351",
+      "canonicalId": "canonical-040",
+      "payoffs": [
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "356",
+      "canonicalId": "canonical-076",
+      "payoffs": [
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "355",
+      "canonicalId": "canonical-080",
+      "payoffs": [
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "354",
+      "canonicalId": "canonical-044",
+      "payoffs": [
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "353",
+      "canonicalId": "canonical-008",
+      "payoffs": [
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "352",
+      "canonicalId": "canonical-004",
+      "payoffs": [
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "251",
+      "canonicalId": "canonical-003",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "256",
+      "canonicalId": "canonical-007",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "255",
+      "canonicalId": "canonical-043",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            3
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "254",
+      "canonicalId": "canonical-079",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            2,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "253",
+      "canonicalId": "canonical-075",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "252",
+      "canonicalId": "canonical-039",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "361",
+      "canonicalId": "canonical-001",
+      "payoffs": [
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "366",
+      "canonicalId": "canonical-005",
+      "payoffs": [
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "365",
+      "canonicalId": "canonical-041",
+      "payoffs": [
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "364",
+      "canonicalId": "canonical-077",
+      "payoffs": [
+        [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "363",
+      "canonicalId": "canonical-073",
+      "payoffs": [
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "362",
+      "canonicalId": "canonical-037",
+      "payoffs": [
+        [
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "261",
+      "canonicalId": "canonical-038",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "266",
+      "canonicalId": "canonical-074",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "265",
+      "canonicalId": "canonical-078",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "264",
+      "canonicalId": "canonical-042",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "263",
+      "canonicalId": "canonical-006",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "262",
+      "canonicalId": "canonical-002",
+      "payoffs": [
+        [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "311",
+      "canonicalId": "canonical-013",
+      "payoffs": [
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "316",
+      "canonicalId": "canonical-017",
+      "payoffs": [
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "315",
+      "canonicalId": "canonical-053",
+      "payoffs": [
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "314",
+      "canonicalId": "canonical-089",
+      "payoffs": [
+        [
+          [
+            2,
+            1
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "313",
+      "canonicalId": "canonical-085",
+      "payoffs": [
+        [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "312",
+      "canonicalId": "canonical-049",
+      "payoffs": [
+        [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "211",
+      "canonicalId": "canonical-050",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "216",
+      "canonicalId": "canonical-086",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            1
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "215",
+      "canonicalId": "canonical-090",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "214",
+      "canonicalId": "canonical-054",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        [
+          [
+            1,
+            2
+          ],
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "213",
+      "canonicalId": "canonical-018",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            3,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "212",
+      "canonicalId": "canonical-014",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        [
+          [
+            1,
+            1
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": true,
+        "swapColumns": false
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "coordinate-extracted and combinatorially validated"
+    },
+    {
+      "publishedId": "154",
+      "canonicalId": "canonical-012",
+      "payoffs": [
+        [
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      ],
+      "canonicalTransform": {
+        "swapRows": false,
+        "swapColumns": true
+      },
+      "sourcePage": 5,
+      "sourcePlate": 1,
+      "status": "inferred repair; published northwest payoff is malformed",
+      "repair": "NW (2,4) inferred from remaining ranks (row 1,3,4; column 1,2,3) and confirmed as sole missing canonical game; not independently source-confirmed."
+    }
+  ],
+  "issues": [
+    {
+      "publishedId": "154",
+      "errors": [
+        {
+          "cell": [
+            0,
+            0,
+            0
+          ],
+          "observed": []
+        },
+        {
+          "cell": [
+            0,
+            0,
+            1
+          ],
+          "observed": []
+        }
+      ]
+    }
+  ]
+}

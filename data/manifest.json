@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "seed": 20261016,
+  "counts": {
+    "best_response": 576,
+    "strict_dominance": 576,
+    "pure_nash": 576,
+    "level_k": 3456
+  },
+  "questions": 29952,
+  "pilot_requests": 108,
+  "pilot_questions": 624,
+  "source_archive_sha256": "5bcd75e7df8093bbe25b88b82606d095b1cad1e40b87ff7967fa129af8d6cce0",
+  "source_crosswalk_sha256": "068196064dc23724508d7ef0a71905bd651ebf22e08ce3dda8c3e0059b4087bf",
+  "legacy_inputs_sha256": "b6144b2cac9df204fde7a7e07d89de7eaee0bc518bb269ac3110c6349265d2ad",
+  "legacy_answers_sha256": "d0a7de6113e4efaa10a8c12a199a14cfb4cf6f60e99f5b2a5969373aed2b0b98",
+  "files": {
+    "questions/requests.jsonl": "206885d7b667f2e5bb2fdcb6b53c79fbf00d374297d1954b7ccacee95a6e8fd3",
+    "questions/pilot.json": "957dc227200d45003b3e1abbe9636b1f978106f3870d86eb17bd0cebe7fe31b6",
+    "answers/answers.jsonl": "1fd4127b4cda3db09a04c4c2090f464394179ed8d422ca0959b27a510a632ebe",
+    "metadata/cases.jsonl": "e331891d123b68dde21ec77c5998cdff79b9884117b9e5d0be656fb5e26a8a7c",
+    "metadata/provenance.jsonl": "a67f1704129596df9c393babc2c2d9c1682e772441bfc80b81612eb84755d2bf",
+    "metadata/bruns-crosswalk.json": "068196064dc23724508d7ef0a71905bd651ebf22e08ce3dda8c3e0059b4087bf"
+  }
+}
