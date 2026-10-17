@@ -4,7 +4,7 @@ A reproducible, task-specific evaluation of **best responses, strict dominance, 
 
 > **Scope: mathematical correctness only.** This benchmark tests explicitly specified 2×2 calculations. It does not evaluate the full Marres application, real-world decision quality, or general intelligence. It is not an equal-compute comparison.
 
-**Licensing:** code and data licensing are not yet finalized. See [licensing status](LICENSE.md).
+**Licensing:** benchmark software is [Apache-2.0](LICENSE). Dataset, model-output and documentation licensing are separate; see [licensing scope](LICENSE.md).
 
 ![Complete-case and individual-answer accuracy](figures/accuracy-comparison.png)
 

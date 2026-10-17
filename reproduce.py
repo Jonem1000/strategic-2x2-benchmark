@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 """Verify release data, regenerate answers, and reproduce scores without network access."""
 from pathlib import Path
 import hashlib, json

@@ -27,5 +27,7 @@
     ],
     "dependencies": "standard library"
   },
-  "scope": "Mathematical calculations, not real-world decision quality."
+  "scope": "Mathematical calculations, not real-world decision quality.",
+  "software_license": "Apache-2.0",
+  "licensing_scope": "LICENSE.md"
 }

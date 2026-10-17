@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 import json,unittest
 from pathlib import Path
 import exam,ordinal,score

@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 """Offline verification, answer-free export, and run-and-score entry point."""
 import argparse, hashlib, json, shutil, subprocess, sys
 from pathlib import Path
@@ -5,7 +6,7 @@ ROOT=Path(__file__).resolve().parent
 
 def export(destination):
     destination.mkdir(parents=True,exist_ok=False)
-    files=['contracts.py','adapters/run.py','adapters/README.md','data/questions/requests.jsonl','data/questions/pilot.json']
+    files=['LICENSE','LICENSE.md','contracts.py','adapters/run.py','adapters/README.md','data/questions/requests.jsonl','data/questions/pilot.json']
     files += [str(p.relative_to(ROOT)) for p in (ROOT/'schemas').glob('*.json') if p.name in ('request.schema.json','prediction.schema.json','native-response.schema.json','execution.schema.json','run-manifest.schema.json')]
     for name in files:
         target=destination/name;target.parent.mkdir(parents=True,exist_ok=True);shutil.copyfile(ROOT/name,target)

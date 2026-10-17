@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 """Offline scorer: incomplete runs retain full denominators and no overall score."""
 import argparse, collections, json, statistics
 from pathlib import Path

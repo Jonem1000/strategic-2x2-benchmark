@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 """Answer-free parsing contract; no oracle or answer-key dependencies."""
 import json, math
 LABELS=('first','second','equal')

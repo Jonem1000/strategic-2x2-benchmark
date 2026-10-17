@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 """Four-section exam: exact reference, native typed prompts and strict output parsing."""
 from fractions import Fraction as F
 import json, math

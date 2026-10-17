@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 """Mathematical helpers extracted unchanged from the original harness."""
 import json, hashlib, itertools
 from pathlib import Path

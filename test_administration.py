@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 """Cold-start tests: isolated packages and real local HTTP, no paid inference."""
 import hashlib,json,subprocess,sys,tempfile,threading,unittest
 from http.server import BaseHTTPRequestHandler,ThreadingHTTPServer

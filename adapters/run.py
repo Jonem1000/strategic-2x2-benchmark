@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: Apache-2.0
 """Portable optional inference; dry-run by default. Never loads answer keys."""
 import argparse,hashlib,json,os,random,sys,time
 from pathlib import Path
